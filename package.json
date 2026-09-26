@@ -1,0 +1,13 @@
+{
+  "name": "topboy-travis-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Princewill Obongha — TopBoy Travis AI Developer portfolio",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "resend": "^6.0.0"
+  }
+}
